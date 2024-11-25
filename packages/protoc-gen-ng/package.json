@@ -1,6 +1,6 @@
 {
   "name": "serviceware-protoc-gen-ng",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "gRPC code generator for Angular",
   "author": "smnbbrv",
   "license": "MIT",
@@ -14,7 +14,7 @@
   },
   "dependencies": {
     "google-protobuf": "^3.15.8",
-    "prettier": "1.19.1",
+    "prettier": "2.8.8",
     "winston": "^3.2.1",
     "tslib": "^2.0.0"
   }
