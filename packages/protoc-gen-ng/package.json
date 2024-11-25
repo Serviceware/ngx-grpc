@@ -1,5 +1,5 @@
 {
-  "name": "@serviceware/protoc-gen-ng",
+  "name": "serviceware-protoc-gen-ng",
   "version": "1.0.0",
   "description": "gRPC code generator for Angular",
   "author": "smnbbrv",
